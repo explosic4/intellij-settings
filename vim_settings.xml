@@ -1,0 +1,1178 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-backend/src/chat/utlis.py" timestamp="1507884421466">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="9" column="16" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-api/src/utils/session.py" timestamp="1513218492829">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="31" />
+        <mark key="^" line="15" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/diveintopython3/unit-testing/__init__.py" timestamp="1507971056339">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+      </file>
+      <file name="/a.dummy" timestamp="1516787228347">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1510301722579">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="50" column="19" />
+        <mark key="^" line="50" column="19" />
+        <mark key="." line="50" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode/async.py" timestamp="1515049011299">
+        <mark key="'" line="121" column="46" />
+        <mark key="[" line="134" column="31" />
+        <mark key="]" line="135" column="30" />
+        <mark key="^" line="135" column="30" />
+        <mark key="." line="135" column="30" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-api/doc/snapecg.md" timestamp="1510813878263">
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-backend/src/users/admin.py" timestamp="1507984382102">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode/consumer.py" timestamp="1512711767461">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="51" column="36" />
+        <mark key="]" line="51" column="40" />
+        <mark key="." line="51" column="40" />
+        <mark key="^" line="51" column="40" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-backend/src/users/urls.py" timestamp="1507907559668">
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="13" column="32" />
+        <mark key="." line="13" column="32" />
+        <mark key="^" line="13" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-website/main/online_storage/storage.py" timestamp="1514251022935">
+        <mark key="[" line="38" column="27" />
+        <mark key="]" line="38" column="34" />
+        <mark key="." line="38" column="34" />
+        <mark key="^" line="38" column="34" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode/4 median.py" timestamp="1515065378977">
+        <mark key="'" line="30" column="18" />
+        <mark key="[" line="7" column="67" />
+        <mark key="]" line="7" column="72" />
+        <mark key="." line="7" column="72" />
+        <mark key="^" line="7" column="72" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode/udp_server.py" timestamp="1516274530812">
+        <mark key="'" line="0" column="13" />
+        <mark key="[" line="31" column="31" />
+        <mark key="]" line="32" column="24" />
+        <mark key="." line="32" column="24" />
+        <mark key="^" line="32" column="24" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-backend/src/utils/tests.py" timestamp="1510138670256">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-backend/src/main/local_settings.py" timestamp="1514267160476">
+        <mark key="'" line="0" column="16" />
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="12" />
+        <mark key="." line="17" column="12" />
+        <mark key="^" line="17" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/diveintopython3/names.txt" timestamp="1508426075757">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="5" />
+        <mark key="^" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-backend/src/users/tests/test_serializers_new.py" timestamp="1508245310452">
+        <mark key="[" line="65" column="43" />
+        <mark key="]" line="65" column="47" />
+        <mark key="^" line="65" column="47" />
+        <mark key="." line="65" column="47" />
+      </file>
+      <file name="$USER_HOME$/projects/huashan-data-migaration/src/rule" timestamp="1509259319205">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="9" />
+        <mark key="." line="4" column="9" />
+        <mark key="^" line="4" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom-backend/src/doctor/models.py" timestamp="1507546883130">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="47" column="34" />
+        <mark key="^" line="4" column="48" />
+        <mark key="." line="4" column="48" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-api/src/file/apps.py" timestamp="1510559223249">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="9" />
+        <mark key="." line="3" column="9" />
+        <mark key="^" line="3" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/huashan-data-migaration/src/__init__.py" timestamp="1509501127232">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="1" column="55" />
+        <mark key="^" line="1" column="55" />
+        <mark key="." line="1" column="55" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1507810748506">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-api/src/utils/session.py" timestamp="1513165391871">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/py2/tcp_frame.py" timestamp="1517145654403">
+        <mark key="'" line="19" column="19" />
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="30" column="19" />
+        <mark key="." line="30" column="19" />
+        <mark key="^" line="32" column="8" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-website/main/templates/view/header.html" timestamp="1515830120564">
+        <mark key="[" line="17" column="41" />
+        <mark key="]" line="17" column="53" />
+        <mark key="." line="17" column="53" />
+        <mark key="^" line="17" column="53" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-website/.gitignore" timestamp="1516249503902">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/diveintopython3/unit-testing/roman.py" timestamp="1507974668599">
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="23" column="63" />
+        <mark key="." line="23" column="63" />
+        <mark key="^" line="23" column="63" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-website/main/urls.py" timestamp="1514214596995">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="31" />
+        <mark key="." line="21" column="31" />
+        <mark key="^" line="21" column="51" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/models.py" timestamp="1516003069987">
+        <mark key="[" line="100" column="21" />
+        <mark key="]" line="100" column="21" />
+        <mark key="." line="100" column="21" />
+        <mark key="^" line="100" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/huashan-data-migaration/success.txt" timestamp="1511705240631">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-website/main/templates/main/doctor.html" timestamp="1516260585376">
+        <mark key="[" line="48" column="43" />
+        <mark key="]" line="48" column="46" />
+        <mark key="." line="48" column="46" />
+        <mark key="^" line="48" column="46" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-website/main/views.py" timestamp="1514215129167">
+        <mark key="'" line="52" column="4" />
+        <mark key="[" line="680" column="41" />
+        <mark key="]" line="680" column="45" />
+        <mark key="." line="680" column="45" />
+        <mark key="^" line="680" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-api/src/main/local_settings.py" timestamp="1515663324952">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="34" column="8" />
+        <mark key="]" line="34" column="11" />
+        <mark key="^" line="34" column="11" />
+        <mark key="." line="34" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/session.py" timestamp="1514557281024">
+        <mark key="'" line="74" column="26" />
+        <mark key="[" line="84" column="14" />
+        <mark key="]" line="84" column="23" />
+        <mark key="." line="84" column="23" />
+        <mark key="^" line="84" column="23" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode/name.py" timestamp="1517125845915">
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-api/src/main/wsgi.py" timestamp="1510559681374">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="13" column="53" />
+        <mark key="." line="13" column="53" />
+        <mark key="^" line="13" column="53" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-website/main/templates/main/footer.html" timestamp="1516256158307">
+        <mark key="[" line="38" column="29" />
+        <mark key="]" line="38" column="29" />
+        <mark key="." line="38" column="29" />
+        <mark key="^" line="38" column="50" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-website/main/online_storage/image.py" timestamp="1514250992183">
+        <mark key="[" line="16" column="32" />
+        <mark key="]" line="16" column="39" />
+        <mark key="." line="16" column="39" />
+        <mark key="^" line="16" column="39" />
+      </file>
+      <file name="/Python Console" timestamp="1517277388015">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="33" />
+        <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/py2/nonblock.py" timestamp="1517455587701">
+        <mark key="[" line="54" column="30" />
+        <mark key="]" line="54" column="33" />
+        <mark key="^" line="54" column="33" />
+        <mark key="." line="54" column="33" />
+      </file>
+      <file name="/manage.py@dongmom-website" timestamp="1516266431497">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode/voc.py" timestamp="1515488524170">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-api/playbooks/templates/local_settings.py.j2" timestamp="1513240848352">
+        <mark key="[" line="39" column="24" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.md" timestamp="1508244038097">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom-backend/src/common/models.py" timestamp="1510487538410">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="28" />
+        <mark key="^" line="27" column="59" />
+        <mark key="." line="27" column="59" />
+      </file>
+      <file name="/media/explosic4/Elementary_Data/Personal_Projects/Dongma/dongmom-backend/src/common/online_storage/image.py" timestamp="1507693515104">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="29" column="46" />
+        <mark key="." line="30" column="19" />
+        <mark key="^" line="30" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/tests.py" timestamp="1513230376395">
+        <mark key="[" line="52" column="78" />
+        <mark key="]" line="52" column="79" />
+        <mark key="." line="52" column="79" />
+        <mark key="^" line="52" column="79" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-api/src/snapecg/dbconnect.py" timestamp="1510743558026">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom-backend/src/patient/models.py" timestamp="1510812792303">
+        <mark key="'" line="59" column="42" />
+        <mark key="[" line="330" column="0" />
+        <mark key="]" line="330" column="0" />
+        <mark key="^" line="325" column="30" />
+        <mark key="." line="330" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode/threading.py" timestamp="1511252815984">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-api/playbooks/secrets.yml" timestamp="1512539345965">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-website/gunicorn.conf.py" timestamp="1513134051296">
+        <mark key="'" line="3" column="39" />
+        <mark key="[" line="5" column="61" />
+        <mark key="]" line="5" column="61" />
+        <mark key="^" line="5" column="61" />
+        <mark key="." line="5" column="61" />
+      </file>
+      <file name="$USER_HOME$/projects/huashan-data-migaration/hack_passwords.py" timestamp="1512005530985">
+        <mark key="'" line="48" column="37" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="50" column="70" />
+        <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/huashan-data-migaration/config.py" timestamp="1509106044653">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/views.py" timestamp="1515057149121">
+        <mark key="'" line="80" column="38" />
+        <mark key="[" line="75" column="54" />
+        <mark key="]" line="75" column="54" />
+        <mark key="^" line="75" column="54" />
+        <mark key="." line="75" column="54" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode/big_sender.py" timestamp="1516777084620">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="22" />
+        <mark key="." line="18" column="22" />
+        <mark key="^" line="18" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/huashan-data-migaration/src/clean_xml.py" timestamp="1517725446778">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="35" column="31" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-backend/src/chat/exceptions.py" timestamp="1507883874212">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/diveintopython3/unit-testing/roman1.py" timestamp="1507971197420">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="24" column="16" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-api/src/main/settings.py" timestamp="1515663240329">
+        <mark key="'" line="131" column="15" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+        <mark key="^" line="45" column="43" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-backend/src/main/settings.py" timestamp="1514238225227">
+        <mark key="'" line="161" column="12" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="206" column="4" />
+        <mark key="." line="136" column="13" />
+        <mark key="^" line="136" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/diveintopython3/dive.txt" timestamp="1508557691578">
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-api/playbooks/templates/local_settings.py.j2" timestamp="1512357013735">
+        <mark key="[" line="38" column="32" />
+        <mark key="]" line="38" column="46" />
+        <mark key="." line="38" column="46" />
+        <mark key="^" line="38" column="46" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode/ping.py" timestamp="1517119270319">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/huashan-data-migaration/src/get_data.py" timestamp="1517916705028">
+        <mark key="'" line="374" column="0" />
+        <mark key="[" line="373" column="59" />
+        <mark key="]" line="373" column="59" />
+        <mark key="." line="373" column="59" />
+        <mark key="^" line="373" column="59" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/py2/tcp.py" timestamp="1517143125291">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="28" />
+        <mark key="." line="11" column="28" />
+        <mark key="^" line="11" column="28" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-backend/src/utils/serializers.py" timestamp="1508145743945">
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="64" />
+        <mark key="^" line="9" column="64" />
+        <mark key="." line="9" column="64" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-api/src/utils/tests.py" timestamp="1513218262111">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+        <mark key="^" line="10" column="16" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/py2/server.py" timestamp="1517454536241">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="28" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="27" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/huashan-data-migaration/src/dict.txt" timestamp="1509540120361">
+        <mark key="'" line="30" column="4" />
+        <mark key="[" line="52" column="6" />
+        <mark key="]" line="52" column="7" />
+        <mark key="." line="52" column="7" />
+        <mark key="^" line="52" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom-website/main/models.py" timestamp="1512905463300">
+        <mark key="'" line="278" column="8" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="236" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/huashan-data-migaration/src/ocr.py" timestamp="1510211899689">
+        <mark key="[" line="84" column="31" />
+        <mark key="]" line="85" column="3" />
+        <mark key="^" line="85" column="3" />
+        <mark key="." line="85" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/diveintopython3/rules.txt" timestamp="1508408793162">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="1" />
+        <mark key="^" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode/udp_broadcast.py" timestamp="1516780674260">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="13" />
+        <mark key="^" line="20" column="13" />
+        <mark key="." line="20" column="13" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode/thread_test.py" timestamp="1511261097496">
+        <mark key="[" line="62" column="15" />
+        <mark key="]" line="63" column="22" />
+        <mark key="." line="63" column="22" />
+        <mark key="^" line="63" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom-backend/doc/patient_register.md" timestamp="1507988172348">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="91" column="6" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-backend/src/users/views.py" timestamp="1508232663029">
+        <mark key="'" line="89" column="25" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="23" />
+        <mark key="." line="71" column="43" />
+        <mark key="^" line="71" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/urls.py" timestamp="1513241300310">
+        <mark key="[" line="10" column="64" />
+        <mark key="]" line="10" column="64" />
+        <mark key="." line="10" column="64" />
+        <mark key="^" line="10" column="64" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-backend/src/utils/storage.py" timestamp="1507794397823">
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="18" column="59" />
+        <mark key="." line="18" column="59" />
+        <mark key="^" line="18" column="59" />
+      </file>
+      <file name="/manage.py@dongmom-api" timestamp="1515662791143">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-backend/src/users/tests/test_serializers.py" timestamp="1510543504868">
+        <mark key="'" line="34" column="4" />
+        <mark key="[" line="310" column="0" />
+        <mark key="]" line="310" column="0" />
+        <mark key="." line="310" column="0" />
+        <mark key="^" line="298" column="68" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-backend/src/main/urls.py" timestamp="1507983107697">
+        <mark key="[" line="26" column="11" />
+        <mark key="]" line="26" column="15" />
+        <mark key="." line="26" column="15" />
+        <mark key="^" line="26" column="15" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-api/src/settings.py" timestamp="1510555284524">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="119" column="14" />
+        <mark key="]" line="119" column="14" />
+        <mark key="." line="119" column="14" />
+        <mark key="^" line="119" column="13" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1508040877414">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="13" column="16" />
+        <mark key="^" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/huashan-data-migaration/sortest.py" timestamp="1510383700380">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="12" column="11" />
+        <mark key="^" line="12" column="11" />
+        <mark key="." line="12" column="11" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-api/src/utils/dbrouter.py" timestamp="1510743635475">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom-website/main/urls.py" timestamp="1512905358521">
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="5" />
+        <mark key="." line="31" column="5" />
+        <mark key="^" line="31" column="5" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1515488481803">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-api/.gitignore" timestamp="1513164662012">
+        <mark key="'" line="0" column="5" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="130" column="9" />
+        <mark key="^" line="130" column="9" />
+        <mark key="." line="130" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-website/dongmom/settings.py" timestamp="1515055994194">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="150" column="4" />
+        <mark key="." line="149" column="0" />
+        <mark key="^" line="146" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-website/dongmom/local_settings.py" timestamp="1515056086854">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="36" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/diveintopython3/puzzle.py" timestamp="1508500200130">
+        <mark key="[" line="37" column="21" />
+        <mark key="]" line="37" column="41" />
+        <mark key="." line="37" column="41" />
+        <mark key="^" line="37" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/huashan-data-migaration/src/config.py" timestamp="1509269690917">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="42" column="15" />
+        <mark key="." line="25" column="30" />
+        <mark key="^" line="25" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/huashan-data-migaration/src/clean_xml.py" timestamp="1509691861096">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="30" />
+        <mark key="^" line="15" column="30" />
+        <mark key="." line="15" column="30" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-backend/src/users/test_views.py" timestamp="1508074141576">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-backend/src/users/serializers.py" timestamp="1510543210925">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="93" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-website/main/templates/main/article.html" timestamp="1515842406289">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode/threading_event.py" timestamp="1511704800014">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="9" column="29" />
+        <mark key="^" line="9" column="25" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-api/playbooks/templates/pg_hba.conf.j2" timestamp="1512540011257">
+        <mark key="[" line="76" column="62" />
+        <mark key="]" line="76" column="62" />
+        <mark key="^" line="76" column="62" />
+        <mark key="." line="76" column="62" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/py2/client.py" timestamp="1517279031109">
+        <mark key="[" line="28" column="11" />
+        <mark key="]" line="28" column="24" />
+        <mark key="." line="28" column="24" />
+        <mark key="^" line="28" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/diveintopython3/fib.py" timestamp="1508400031052">
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="25" column="17" />
+        <mark key="." line="25" column="17" />
+        <mark key="^" line="25" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/huashan-data-migaration/src/upload_center_data.py" timestamp="1511765795965">
+        <mark key="'" line="393" column="15" />
+        <mark key="[" line="392" column="80" />
+        <mark key="]" line="393" column="23" />
+        <mark key="." line="393" column="23" />
+        <mark key="^" line="393" column="23" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-api/src/main/urls.py" timestamp="1512357663996">
+        <mark key="[" line="21" column="55" />
+        <mark key="]" line="21" column="55" />
+        <mark key="^" line="21" column="55" />
+        <mark key="." line="21" column="55" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-api/playbooks/deploy.yml" timestamp="1512539424025">
+        <mark key="'" line="29" column="4" />
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="9" column="27" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-backend/src/users/tests/test_views.py" timestamp="1508225556408">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/huashan-data-migaration/.gitignore" timestamp="1509106484528">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-api/src/main/settings.py" timestamp="1512435820793">
+        <mark key="'" line="122" column="13" />
+        <mark key="[" line="57" column="62" />
+        <mark key="]" line="57" column="63" />
+        <mark key="." line="57" column="63" />
+        <mark key="^" line="57" column="63" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/exceptions.py" timestamp="1513242076620">
+        <mark key="[" line="41" column="32" />
+        <mark key="]" line="41" column="36" />
+        <mark key="." line="41" column="36" />
+        <mark key="^" line="41" column="36" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-api/src/snapecg/__init__.py" timestamp="1510557130690">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-api/src/main/local_settings.py" timestamp="1512356954396">
+        <mark key="'" line="39" column="11" />
+        <mark key="[" line="45" column="23" />
+        <mark key="]" line="45" column="47" />
+        <mark key="." line="6" column="10" />
+        <mark key="^" line="6" column="10" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-api/src/snapecg/permissions.py" timestamp="1512435182578">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="36" />
+        <mark key="^" line="6" column="36" />
+        <mark key="." line="6" column="36" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode/launcelot.py" timestamp="1519999522574">
+        <mark key="[" line="32" column="15" />
+        <mark key="]" line="24" column="4" />
+        <mark key="." line="24" column="4" />
+        <mark key="^" line="24" column="4" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-backend/requirements-to-freeze.txt" timestamp="1507981657367">
+        <mark key="[" line="25" column="5" />
+        <mark key="]" line="25" column="6" />
+        <mark key="^" line="25" column="6" />
+        <mark key="." line="25" column="6" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode/tcp_upper.py" timestamp="1517060342008">
+        <mark key="'" line="47" column="25" />
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-backend/doc/post_doctor.md" timestamp="1507977561244">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-backend/src/users/tests/test_data.py" timestamp="1508233763673">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="64" column="25" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="28" column="23" />
+      </file>
+      <file name="/Django Console" timestamp="1516256194107">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/py2/trace.py" timestamp="1517280218431">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="33" column="55" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode/3sums.py" timestamp="1510978295330">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/diveintopython3/lazy_rules.py" timestamp="1508408976077">
+        <mark key="'" line="52" column="21" />
+        <mark key="[" line="52" column="16" />
+        <mark key="]" line="52" column="27" />
+        <mark key="^" line="52" column="27" />
+        <mark key="." line="52" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/huashan-data-migaration/src/bisearch.py" timestamp="1512118193671">
+        <mark key="'" line="8" column="27" />
+        <mark key="[" line="28" column="52" />
+        <mark key="]" line="28" column="52" />
+        <mark key="." line="28" column="52" />
+        <mark key="^" line="28" column="52" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom-backend/src/devices/models.py" timestamp="1510487686746">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-api/src/snapecg/views.py" timestamp="1513165166204">
+        <mark key="[" line="60" column="24" />
+        <mark key="]" line="60" column="3" />
+        <mark key="." line="60" column="3" />
+        <mark key="^" line="60" column="3" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-backend/src/users/test.yml" timestamp="1508039569127">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-api/src/snapecg/urls.py" timestamp="1512355017372">
+        <mark key="[" line="10" column="60" />
+        <mark key="]" line="10" column="70" />
+        <mark key="." line="10" column="70" />
+        <mark key="^" line="10" column="70" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1515913911767">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-backend/readme.md" timestamp="1507984656781">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+        <mark key="^" line="6" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/huashan-data-migaration/src/local_settings.py" timestamp="1510485218424">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+        <mark key="^" line="13" column="16" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-backend/src/users/test_serializers.py" timestamp="1508080585746">
+        <mark key="'" line="159" column="8" />
+        <mark key="[" line="188" column="91" />
+        <mark key="]" line="188" column="91" />
+        <mark key="^" line="188" column="113" />
+        <mark key="." line="188" column="91" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-website/main/templates/main/auth.html" timestamp="1515913653571">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="42" />
+        <mark key="." line="7" column="42" />
+        <mark key="^" line="7" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-api/doc/snapecg.md" timestamp="1513242412216">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="89" column="5" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="53" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode/asycnio1.py" timestamp="1514883997719">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="16" column="30" />
+        <mark key="^" line="16" column="30" />
+        <mark key="." line="16" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/huashan-data-migaration/hack_passwords.py" timestamp="1517919976641">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+        <mark key="^" line="14" column="27" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode/tcp_sixteen.py" timestamp="1517056324421">
+        <mark key="'" line="1" column="22" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="44" column="54" />
+        <mark key="^" line="31" column="29" />
+        <mark key="." line="31" column="29" />
+      </file>
+      <file name="/manage.py@dongmom-backend" timestamp="1507983967119">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/projects/diveintopython3/plurals.py" timestamp="1508408921204">
+        <mark key="'" line="1" column="23" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="34" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/py2/tsl.py" timestamp="1517234276764">
+        <mark key="'" line="7" column="72" />
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="21" column="33" />
+        <mark key="." line="21" column="33" />
+        <mark key="^" line="21" column="33" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode/server.py" timestamp="1515670569467">
+        <mark key="'" line="28" column="59" />
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="7" />
+        <mark key="." line="25" column="7" />
+        <mark key="^" line="25" column="7" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/py2/qa.py" timestamp="1517277734698">
+        <mark key="'" line="17" column="13" />
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="67" />
+        <mark key="." line="20" column="67" />
+        <mark key="^" line="20" column="67" />
+      </file>
+      <file name="$USER_HOME$/projects/huashan-data-migaration/src/patient_data.py" timestamp="1510221432564">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-website/main/templates/main/navbar.html" timestamp="1515836498747">
+        <mark key="[" line="13" column="51" />
+        <mark key="]" line="13" column="54" />
+        <mark key="." line="13" column="54" />
+        <mark key="^" line="13" column="54" />
+      </file>
+      <file name="/media/explosic4/Elementary_Data/Personal_Projects/Dongma/dongmom-backend/src/common/management/commands/test_upload.py" timestamp="1507692791153">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="32" />
+        <mark key="^" line="11" column="32" />
+        <mark key="." line="11" column="32" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dongmom-api/src/main/dbrouter.py" timestamp="1510807286389">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="41" column="69" />
+      </file>
+      <file name="$USER_HOME$/projects/dongmom/dongmom-api/src/main/urls.py" timestamp="1515663355329">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="29" column="4" filename="$USER_HOME$/PycharmProjects/dongmom-api/playbooks/deploy.yml" />
+      <jump line="24" column="3" filename="$USER_HOME$/PycharmProjects/leetcode/consumer.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/PycharmProjects/leetcode/consumer.py" />
+      <jump line="47" column="21" filename="$USER_HOME$/projects/dongmom-website/main/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/dongmom-website/main/models.py" />
+      <jump line="276" column="8" filename="$USER_HOME$/projects/dongmom-website/main/models.py" />
+      <jump line="555" column="0" filename="$USER_HOME$/projects/dongmom-website/main/views.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/projects/dongmom/dongmom-website/main/views.py" />
+      <jump line="289" column="30" filename="$USER_HOME$/projects/dongmom/dongmom-website/main/views.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/dongmom/dongmom-website/main/views.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/projects/dongmom/dongmom-website/main/views.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/projects/dongmom/dongmom-website/dongmom/settings.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/projects/dongmom/dongmom-website/dongmom/settings.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/dongmom/dongmom-website/dongmom/local_settings.py" />
+      <jump line="3" column="39" filename="$USER_HOME$/projects/dongmom/dongmom-website/gunicorn.conf.py" />
+      <jump line="19" column="11" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/models.py" />
+      <jump line="28" column="13" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/session.py" />
+      <jump line="4" column="14" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/session.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/session.py" />
+      <jump line="47" column="8" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/views.py" />
+      <jump line="561" column="29" filename="$USER_HOME$/.virtualenvs/dongmom-api/lib/python3.4/site-packages/requests/sessions.py" />
+      <jump line="10" column="210" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/session.py" />
+      <jump line="40" column="26" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/views.py" />
+      <jump line="12" column="43" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/views.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/main/local_settings.py" />
+      <jump line="88" column="47" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/session.py" />
+      <jump line="25" column="58" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/session.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/projects/dongmom/dongmom-website/dongmom/settings.py" />
+      <jump line="52" column="4" filename="$USER_HOME$/projects/dongmom/dongmom-website/main/views.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/projects/dongmom/dongmom-website/dongmom/settings.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/dongmom/dongmom-website/dongmom/settings.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/dongmom/dongmom-website/dongmom/settings.py" />
+      <jump line="133" column="20" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/main/settings.py" />
+      <jump line="161" column="12" filename="$USER_HOME$/PycharmProjects/dongmom-backend/src/main/settings.py" />
+      <jump line="96" column="23" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/session.py" />
+      <jump line="68" column="8" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/session.py" />
+      <jump line="65" column="26" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/session.py" />
+      <jump line="61" column="8" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/session.py" />
+      <jump line="45" column="16" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/session.py" />
+      <jump line="42" column="20" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/session.py" />
+      <jump line="31" column="30" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/session.py" />
+      <jump line="26" column="8" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/session.py" />
+      <jump line="89" column="26" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/session.py" />
+      <jump line="84" column="8" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/session.py" />
+      <jump line="74" column="26" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/session.py" />
+      <jump line="19" column="24" filename="$USER_HOME$/PycharmProjects/leetcode/async.py" />
+      <jump line="36" column="21" filename="$USER_HOME$/PycharmProjects/leetcode/async.py" />
+      <jump line="2" column="28" filename="$USER_HOME$/PycharmProjects/leetcode/async.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/leetcode/async.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/leetcode/async.py" />
+      <jump line="52" column="21" filename="$USER_HOME$/PycharmProjects/leetcode/async.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/PycharmProjects/leetcode/async.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/PycharmProjects/leetcode/async.py" />
+      <jump line="118" column="46" filename="$USER_HOME$/PycharmProjects/leetcode/async.py" />
+      <jump line="571" column="0" filename="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/asyncio/events.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/views.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/views.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/views.py" />
+      <jump line="80" column="38" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/snapecg/views.py" />
+      <jump line="155" column="26" filename="$USER_HOME$/projects/dongmom/huashan-data-migaration/src/get_data.py" />
+      <jump line="352" column="4" filename="$USER_HOME$/projects/dongmom/huashan-data-migaration/src/get_data.py" />
+      <jump line="354" column="58" filename="$USER_HOME$/projects/dongmom/huashan-data-migaration/src/get_data.py" />
+      <jump line="80" column="48" filename="$USER_HOME$/projects/dongmom/huashan-data-migaration/src/get_data.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/projects/dongmom/huashan-data-migaration/src/get_data.py" />
+      <jump line="61" column="45" filename="$USER_HOME$/projects/dongmom/huashan-data-migaration/src/get_data.py" />
+      <jump line="258" column="21" filename="$USER_HOME$/projects/dongmom/huashan-data-migaration/src/get_data.py" />
+      <jump line="46" column="40" filename="$USER_HOME$/projects/dongmom/huashan-data-migaration/src/get_data.py" />
+      <jump line="42" column="43" filename="$USER_HOME$/projects/dongmom/huashan-data-migaration/src/upload_center_data.py" />
+      <jump line="109" column="19" filename="$USER_HOME$/projects/dongmom/huashan-data-migaration/src/upload_center_data.py" />
+      <jump line="107" column="11" filename="$USER_HOME$/projects/dongmom/huashan-data-migaration/src/upload_center_data.py" />
+      <jump line="179" column="19" filename="$USER_HOME$/projects/dongmom/huashan-data-migaration/src/upload_center_data.py" />
+      <jump line="260" column="36" filename="$USER_HOME$/projects/dongmom/huashan-data-migaration/src/upload_center_data.py" />
+      <jump line="47" column="12" filename="$USER_HOME$/projects/dongmom/huashan-data-migaration/src/upload_center_data.py" />
+      <jump line="49" column="18" filename="$USER_HOME$/projects/dongmom/huashan-data-migaration/src/upload_center_data.py" />
+      <jump line="51" column="25" filename="$USER_HOME$/projects/dongmom/huashan-data-migaration/src/upload_center_data.py" />
+      <jump line="55" column="27" filename="$USER_HOME$/projects/dongmom/huashan-data-migaration/src/upload_center_data.py" />
+      <jump line="36" column="10" filename="$USER_HOME$/projects/dongmom/huashan-data-migaration/src/upload_center_data.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/leetcode/server.py" />
+      <jump line="25" column="59" filename="$USER_HOME$/PycharmProjects/leetcode/server.py" />
+      <jump line="93" column="20" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/main/settings.py" />
+      <jump line="127" column="47" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/main/settings.py" />
+      <jump line="131" column="15" filename="$USER_HOME$/projects/dongmom/dongmom-api/src/main/settings.py" />
+      <jump line="1" column="21" filename="$USER_HOME$/PycharmProjects/leetcode/udp_server.py" />
+      <jump line="115" column="0" filename="$USER_HOME$/projects/dongmom/dongmom-website/main/templates/main/auth.html" />
+      <jump line="133" column="21" filename="$USER_HOME$/projects/dongmom/dongmom-website/main/templates/main/base.html" />
+      <jump line="0" column="13" filename="$USER_HOME$/PycharmProjects/leetcode/udp_server.py" />
+      <jump line="367" column="24" filename="$USER_HOME$/projects/dongmom/huashan-data-migaration/src/get_data.py" />
+      <jump line="373" column="0" filename="$USER_HOME$/projects/dongmom/huashan-data-migaration/src/get_data.py" />
+      <jump line="0" column="22" filename="$USER_HOME$/PycharmProjects/leetcode/tcp_sixteen.py" />
+      <jump line="1" column="22" filename="$USER_HOME$/PycharmProjects/leetcode/tcp_sixteen.py" />
+      <jump line="12" column="14" filename="$USER_HOME$/PycharmProjects/leetcode/tcp_upper.py" />
+      <jump line="16" column="59" filename="$USER_HOME$/PycharmProjects/leetcode/tcp_upper.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/leetcode/tcp_upper.py" />
+      <jump line="9" column="29" filename="$USER_HOME$/PycharmProjects/leetcode/tcp_upper.py" />
+      <jump line="33" column="45" filename="$USER_HOME$/PycharmProjects/leetcode/tcp_upper.py" />
+      <jump line="44" column="25" filename="$USER_HOME$/PycharmProjects/leetcode/tcp_upper.py" />
+      <jump line="17" column="19" filename="$USER_HOME$/PycharmProjects/py2/tcp_frame.py" />
+      <jump line="9" column="8" filename="$USER_HOME$/PycharmProjects/py2/tsl.py" />
+      <jump line="7" column="72" filename="$USER_HOME$/PycharmProjects/py2/tsl.py" />
+      <jump line="17" column="13" filename="$USER_HOME$/PycharmProjects/py2/qa.py" />
+    </jumps>
+    <registers>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICMgdG9kbzogZGVsZXRlIGRlYnVnCiAgICBwcmludCgnIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyBJTjogV1NfUkVDRUlWRSAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMnKQogICAgcHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS1QQVlMT0FEIENPTlRFTlQtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJykKICAgIHBwcmludC5wcHJpbnQocGF5bG9hZC5fX2RpY3RfXykKICAgIHByaW50KCctLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tRU5ELS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1cbicpCiAgICBwcmludCgnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLU1FU1NBR0UgQ09OVEVOVC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKQogICAgcHByaW50LnBwcmludChtZXNzYWdlLl9fZGljdF9fKQogICAgcHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1FTkQtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLVxuJykKCiAgICBwcmludCgnLS0tLS0tLS0tLS0tLS0tLVBBWUxPQUQgUkVQTFlfQ0hBTk5FTCBDT05URU5ULS0tLS0tLS0tLS0tLS0tLS0nKQogICAgcHByaW50LnBwcmludChwYXlsb2FkLnJlcGx5X2NoYW5uZWwpCiAgICBwcmludCgnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLUVORC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tXG4nKQogICAgcHJpbnQoJy0tLS0tLS0tLS0tLS0tLS1NRVNTQUdFIFJFUExZX0NIQU5ORUwgQ09OVEVOVC0tLS0tLS0tLS0tLS0tLS0tJykKICAgIHBwcmludC5wcHJpbnQobWVzc2FnZS5yZXBseV9jaGFubmVsKQogICAgcHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1FTkQtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLVxuJykKCiAgICBwcmludChwcHJpbnQucGZvcm1hdChtZXNzYWdlLl9fZGljdF9fKSkKICAgIHByaW50KHBwcmludC5wZm9ybWF0KG1lc3NhZ2UuY2hhbm5lbF9zZXNzaW9uLl9fZGljdF9fKSkK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>vefore</text>
+      </register>
+      <register name="b" type="4">
+        <text>HAS_bled</text>
+      </register>
+      <register name="-" type="4">
+        <text>vefore</text>
+      </register>
+      <register name="/" type="4">
+        <text>message</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgndXNhZ2U6IGNsZWFuX3htbC5weSBwYXRoX3RvX3BhdGllbnRfZG9jLmNzdicsCiAgICAgICAgICAgICAgZmlsZT1zeXMuc3RkZXJyKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRyeToK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">REVTVCA9ICcvbWVkaWEvZXhwbG9zaWM0L0VsZW1lbnRhcnlfRGF0YS9QZXJzb25hbF9Qcm9qZWN0cy9Eb25nbWEvaHVhc2hhbl9kYXRhL2h1YXNoYW5fZGF0YV9maWxlXzIwMTgwMS9DRFJfSU5URVJGQUNFX2Rib19BdHJpYWxfRmlicmlsbGF0aW9uX1BhdGllbnRET0NfY2xlYW4uY3N2Jwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">U1JDID0gJy9tZWRpYS9leHBsb3NpYzQvRWxlbWVudGFyeV9EYXRhL1BlcnNvbmFsX1Byb2plY3RzL0RvbmdtYS9odWFzaGFuX2RhdGEvaHVhc2hhbl9kYXRhX2ZpbGVfMjAxODAxL0NEUl9JTlRFUkZBQ0VfZGJvX0F0cmlhbF9GaWJyaWxsYXRpb25fUGF0aWVudERPQy5jc3YnCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zL21lc3NhZ2UvZGF0YS9n</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>message</last-search>
+      <last-offset />
+      <last-pattern>message</last-pattern>
+      <last-replace>data</last-replace>
+      <last-substitute>message</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>database_user</entry>
+        <entry>database_name</entry>
+        <entry>today</entry>
+        <entry>config</entry>
+        <entry>yunpian</entry>
+        <entry encoding="base64">XDxndW5pY29yblw+</entry>
+        <entry encoding="base64">XDxBdXRodG9cPg==</entry>
+        <entry>enter</entry>
+        <entry>logg</entry>
+        <entry>log</entry>
+        <entry>url</entry>
+        <entry>value</entry>
+        <entry>has</entry>
+        <entry>cv</entry>
+        <entry>CHA</entry>
+        <entry>cha</entry>
+        <entry>static</entry>
+        <entry>press</entry>
+        <entry>str</entry>
+        <entry>message</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zLyA9IC86IC9n</entry>
+        <entry encoding="base64">JzwsJz5zKFx3KTovJyQxJy9n</entry>
+        <entry encoding="base64">JzwsJz5zL1xuLyxcYi9n</entry>
+        <entry encoding="base64">JzwsJz5zL3Bob25lL25hbWUvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3Bob25lL3JvbGU=</entry>
+        <entry encoding="base64">JzwsJz5zL2RlcGFydG1lbnQvaG9zcGl0YWwvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2RlcGFydG1lbnQvdGFnL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2hvc3BpdGFsL2lkY2FyZC9n</entry>
+        <entry encoding="base64">JzwsJz4vcy9pZGNhcmQvYmlydHlkYXkvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2lkY2FyZC9iaXJ0aGRheS9n</entry>
+        <entry encoding="base64">JzwsJz5zL2lkY2FyZC9nZW5kZXIvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2RvY3Rvci9wYXRpZW50L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL0RvY3Rvci9QYXRpZW50L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2N1ci9jdXJzb3I=</entry>
+        <entry encoding="base64">JzwsJz5zL2N1cnNvci9jdXIvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL20vbi9n</entry>
+        <entry encoding="base64">JzwsJz5zL1NSQy9ERVNUL2c=</entry>
+        <entry>reg</entry>
+        <entry>action JumpToLastChange</entry>
+        <entry encoding="base64">JzwsJz5zL21lc3NhZ2UvZGF0YS9n</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
